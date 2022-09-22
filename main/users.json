@@ -19,5 +19,15 @@
         "stucode": "2012408109",
         "password": "D20010914L",
         "schoolcode": "xmut"
+    },{
+        "name": "zrc",
+        "stucode": "1912409243",
+        "password": "011215zrc",
+        "schoolcode": "xmut"
+    },{
+        "name": "lin19",
+        "stucode": "1912409219",
+        "password": "lin200173",
+        "schoolcode": "xmut"
     }
 ]
