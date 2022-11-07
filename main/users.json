@@ -32,7 +32,12 @@
     },{
         "name": "LXR",
         "stucode": "2110301421",
-        "password": "ruiruizi@1229",
+        "password": "Arui@1229",
+        "schoolcode": "xmut"
+    },{
+        "name": "LXR2",
+        "stucode": "2110301421",
+        "password": "ruiruizi1229",
         "schoolcode": "xmut"
     }
 ]
